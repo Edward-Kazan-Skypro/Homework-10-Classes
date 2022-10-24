@@ -3,7 +3,7 @@ public class mainApp {
         // Задание 1
         Author author_1 = new Author("Mark", "Twain");
         Author author_2 = new Author("Stephen", "King");
-        //Создание объекта класса Author с одним пустым полем
+        //Создание объекта класса Author с одним пустым полем - для теста
         Author author_3 = new Author("", "wwww");
 
 
